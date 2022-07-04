@@ -1,5 +1,7 @@
 # preceptron
-Single Layer Preceptron or a Single Neuron classifies 2 different color 
+Preceptron is a Single neuron that recives a input and produces a output
+
+the Preceptron in this model is trained to classifies 2 different color 
 
 basically there will be two colors 'RED' and 'GREEN'
 the objective is to divid two colors with a line 
